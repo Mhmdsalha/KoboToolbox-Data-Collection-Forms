@@ -1,12 +1,12 @@
 # KoboToolbox Data Collection Forms
 
-Portfolio repository for my KoboToolbox work, including XLSForms, project documentation, screenshots, and form delivery references.
+Portfolio repository for my KoboToolbox work, organized as standalone project folders. Each project contains its own XLSForm file, screenshots, and dedicated README.
 
 ## About This Repository
 
-This repository is used to organize my KoboToolbox projects in a clean portfolio format. Each project includes:
+This repository is used to organize my KoboToolbox projects in a flat, portfolio-friendly structure. Each project includes:
 
-- the original XLSForm file
+- the original XLSForm file inside the project folder
 - a dedicated project README
 - screenshots from the live form or Kobo preview
 - notes about the form purpose and structure
@@ -30,29 +30,21 @@ I work on KoboToolbox projects end-to-end, including:
 ## Repository Structure
 
 ```text
-forms/                  Original XLSForm files
-assets/                 Shared supporting assets
-docs/                   General notes and references
-projects/               Project-by-project portfolio entries
-  01-gaza-food-cash-assistance-beneficiary-registration/
-  02-coming-soon/
-  03-coming-soon/
+01-gaza-food-cash-assistance-beneficiary-registration/
+02-coming-soon/
+03-coming-soon/
 ```
 
 ## Project Index
 
 | Project | Status | Files | Preview |
 |---|---|---|---|
-| [01 - Gaza Food and Cash Assistance Beneficiary Registration](D:\apps\projects\KoboToolbox-Data-Collection-Forms\projects\01-gaza-food-cash-assistance-beneficiary-registration\README.md) | Added | XLSForm + screenshots + README | [Kobo Link](https://ee.kobotoolbox.org/x/hEz1KlF3) |
-| [02 - Coming Soon](D:\apps\projects\KoboToolbox-Data-Collection-Forms\projects\02-coming-soon\README.md) | Placeholder | To be added | Pending |
-| [03 - Coming Soon](D:\apps\projects\KoboToolbox-Data-Collection-Forms\projects\03-coming-soon\README.md) | Placeholder | To be added | Pending |
-
-## Current Included Form Files
-
-- [gaza_food_cash_assistance_xlsform.xlsx](D:\apps\projects\KoboToolbox-Data-Collection-Forms\forms\gaza_food_cash_assistance_xlsform.xlsx)
+| [01 - Gaza Food and Cash Assistance Beneficiary Registration](D:\apps\projects\KoboToolbox-Data-Collection-Forms\01-gaza-food-cash-assistance-beneficiary-registration\README.md) | Added | XLSForm + screenshots + README | [Kobo Link](https://ee.kobotoolbox.org/x/hEz1KlF3) |
+| [02 - Coming Soon](D:\apps\projects\KoboToolbox-Data-Collection-Forms\02-coming-soon\README.md) | Placeholder | To be added | Pending |
+| [03 - Coming Soon](D:\apps\projects\KoboToolbox-Data-Collection-Forms\03-coming-soon\README.md) | Placeholder | To be added | Pending |
 
 ## Notes
 
 - Sensitive respondent data should never be committed to the repository.
 - Kobo deployment links can be added inside each project README.
-- Future projects can follow the same structure for consistency.
+- Future projects can follow the same folder pattern for consistency.

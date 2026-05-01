@@ -20,9 +20,9 @@ The form is intended to capture beneficiary and household information in a consi
 
 ## Included Files
 
-- [XLSForm Source](D:\apps\projects\KoboToolbox-Data-Collection-Forms\forms\gaza_food_cash_assistance_xlsform.xlsx)
-- [Screenshot 1](D:\apps\projects\KoboToolbox-Data-Collection-Forms\projects\01-gaza-food-cash-assistance-beneficiary-registration\screenshots\01-form-header.png)
-- [Screenshot 2](D:\apps\projects\KoboToolbox-Data-Collection-Forms\projects\01-gaza-food-cash-assistance-beneficiary-registration\screenshots\02-applicant-section.png)
+- [XLSForm Source](D:\apps\projects\KoboToolbox-Data-Collection-Forms\01-gaza-food-cash-assistance-beneficiary-registration\gaza_food_cash_assistance_xlsform.xlsx)
+- [Screenshot 1](D:\apps\projects\KoboToolbox-Data-Collection-Forms\01-gaza-food-cash-assistance-beneficiary-registration\screenshots\01-form-header.png)
+- [Screenshot 2](D:\apps\projects\KoboToolbox-Data-Collection-Forms\01-gaza-food-cash-assistance-beneficiary-registration\screenshots\02-applicant-section.png)
 
 ## Workbook Structure
 
@@ -42,11 +42,11 @@ The current workbook range shows a medium-sized structured form suitable for a r
 
 ### Form Header and Enumerator Section
 
-![Form Header](D:\apps\projects\KoboToolbox-Data-Collection-Forms\projects\01-gaza-food-cash-assistance-beneficiary-registration\screenshots\01-form-header.png)
+![Form Header](D:\apps\projects\KoboToolbox-Data-Collection-Forms\01-gaza-food-cash-assistance-beneficiary-registration\screenshots\01-form-header.png)
 
 ### Applicant and Shelter Information Section
 
-![Applicant Section](D:\apps\projects\KoboToolbox-Data-Collection-Forms\projects\01-gaza-food-cash-assistance-beneficiary-registration\screenshots\02-applicant-section.png)
+![Applicant Section](D:\apps\projects\KoboToolbox-Data-Collection-Forms\01-gaza-food-cash-assistance-beneficiary-registration\screenshots\02-applicant-section.png)
 
 ## Notes
 
