@@ -32,7 +32,7 @@ I work on KoboToolbox projects end-to-end, including:
 ```text
 01-gaza-food-cash-assistance-beneficiary-registration/
 02-medical-clinic-data-entry-gaza/
-03-coming-soon/
+03-gaza-community-feedback-complaint-mechanism/
 ```
 
 ## Project Index
@@ -41,7 +41,7 @@ I work on KoboToolbox projects end-to-end, including:
 |---|---|---|---|
 | [01 - Gaza Food and Cash Assistance Beneficiary Registration](D:\apps\projects\KoboToolbox-Data-Collection-Forms\01-gaza-food-cash-assistance-beneficiary-registration\README.md) | Added | XLSForm + screenshots + README | [Kobo Link](https://ee.kobotoolbox.org/x/hEz1KlF3) |
 | [02 - Medical Clinic Data Entry - Gaza](D:\apps\projects\KoboToolbox-Data-Collection-Forms\02-medical-clinic-data-entry-gaza\README.md) | Added | XLSForm + screenshots + README | [Kobo Link](https://ee.kobotoolbox.org/x/DJpCGdb6) |
-| [03 - Coming Soon](D:\apps\projects\KoboToolbox-Data-Collection-Forms\03-coming-soon\README.md) | Placeholder | To be added | Pending |
+| [03 - Gaza Community Feedback and Complaint Mechanism](D:\apps\projects\KoboToolbox-Data-Collection-Forms\03-gaza-community-feedback-complaint-mechanism\README.md) | Added | XLSForm + screenshots + README | [Kobo Link](https://ee.kobotoolbox.org/x/sEeGasVq) |
 
 ## Notes
 
