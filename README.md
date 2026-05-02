@@ -35,6 +35,7 @@ I work on KoboToolbox projects end-to-end, including:
 03-gaza-community-feedback-complaint-mechanism/
 04-post-distribution-monitoring/
 05-referral-tracking/
+06-distribution-verification/
 ```
 
 ## Project Index
@@ -46,6 +47,7 @@ I work on KoboToolbox projects end-to-end, including:
 | [03 - Gaza Community Feedback and Complaint Mechanism](./03-gaza-community-feedback-complaint-mechanism/README.md) | Added | XLSForm + screenshots + README | [Kobo Link](https://ee.kobotoolbox.org/x/sEeGasVq) |
 | [04 - Post-Distribution Monitoring Form](./04-post-distribution-monitoring/README.md) | Added | XLSForm + screenshots + README | [Kobo Link](https://ee.kobotoolbox.org/x/2bayq1cw) |
 | [05 - Referral Tracking Form](./05-referral-tracking/README.md) | Added | XLSForm + screenshots + README | [Kobo Link](https://ee.kobotoolbox.org/x/L64Rv3Vq) |
+| [06 - Distribution Attendance & Verification Form](./06-distribution-verification/README.md) | Added | XLSForm + screenshots + README | [Kobo Link](https://ee.kobotoolbox.org/x/v8zAnydT) |
 
 ## Notes
 
